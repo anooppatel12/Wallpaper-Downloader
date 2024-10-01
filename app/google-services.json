@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "699214653846",
+    "firebase_url": "https://wallpaperadmin-e97c7-default-rtdb.firebaseio.com",
+    "project_id": "wallpaperadmin-e97c7",
+    "storage_bucket": "wallpaperadmin-e97c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699214653846:android:2dd3ab1033f64927d4d5b7",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJC4uNME-BQuTNRZfWn9C8rmEpuwjmI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699214653846:android:5c4b2f007a975677d4d5b7",
+        "android_client_info": {
+          "package_name": "com.example.wallpaperadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJC4uNME-BQuTNRZfWn9C8rmEpuwjmI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

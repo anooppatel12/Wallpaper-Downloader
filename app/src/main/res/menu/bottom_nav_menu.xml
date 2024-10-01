@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_add_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/nav_downloads"
+        android:icon="@drawable/baseline_download_for_offline_24"
+        android:title="Downloads"/>
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/baseline_3p_24"
+        android:title="Profile"/>
+
+    <!-- Add more items as needed -->
+</menu>
